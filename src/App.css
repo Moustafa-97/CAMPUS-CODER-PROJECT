@@ -1,0 +1,30 @@
+/* start serach bar */
+.background {
+  background: #191b1f;
+  z-index: 30;
+  overflow: hidden;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  transition: opacity 2.5s;
+  -webkit-transition: opacity 2.5s;
+  -moz-transition: opacity 2.5s;
+  -ms-transition: opacity 2.5s;
+  -o-transition: opacity 2.5s;
+  width: 100%;
+  height: 100%;
+}
+.back-show {
+  background: #191b1f;
+  opacity: 0;
+  z-index: -30;
+  transition: all 2.5s;
+  -webkit-transition: all 2.5s;
+  -moz-transition: all 2.5s;
+  -ms-transition: all 2.5s;
+  -o-transition: all 2.5s;
+  overflow: hidden;
+}
+/* end search bar */
