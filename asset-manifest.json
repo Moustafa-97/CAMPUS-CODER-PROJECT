@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CAMPUS-CODER-PROJECT/static/css/main.4a68dc04.css",
+    "main.js": "/CAMPUS-CODER-PROJECT/static/js/main.43183c20.js",
+    "static/js/787.42650831.chunk.js": "/CAMPUS-CODER-PROJECT/static/js/787.42650831.chunk.js",
+    "index.html": "/CAMPUS-CODER-PROJECT/index.html",
+    "main.4a68dc04.css.map": "/CAMPUS-CODER-PROJECT/static/css/main.4a68dc04.css.map",
+    "main.43183c20.js.map": "/CAMPUS-CODER-PROJECT/static/js/main.43183c20.js.map",
+    "787.42650831.chunk.js.map": "/CAMPUS-CODER-PROJECT/static/js/787.42650831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a68dc04.css",
+    "static/js/main.43183c20.js"
+  ]
+}
